@@ -1,0 +1,271 @@
+Team	Position	Name
+ARZ	LWR	Harrison Jr., Marvin 24/1
+ARZ	RWR	Wilson, Michael 23/3
+ARZ	SWR	Dortch, Greg SF21
+ARZ	TE	McBride, Trey 22/2
+ARZ	QB	Murray, Kyler 19/1
+ARZ	RB	Conner, James U/Pit
+ARZ	PK	PRATER, MATT U/Det
+ARZ	DST	Cardinals
+ATL	LWR	London, Drake 22/1
+ATL	RWR	Mooney, Darnell U/Atl
+ATL	SWR	Moore, Rondale T/Arz
+ATL	TE	Pitts, Kyle 21/1
+ATL	QB	COUSINS, KIRK U/Min
+ATL	RB	Robinson, Bijan 23/1
+ATL	PK	Koo, Younghoe SF19
+ATL	DST	Falcons
+BAL	LWR	Flowers, Zay 23/1
+BAL	RWR	Bateman, Rashod 21/1
+BAL	SWR	AGHOLOR, NELSON U/NE
+BAL	TE	Andrews, Mark 18/3
+BAL	QB	Jackson, Lamar 18/1
+BAL	RB	Henry, Derrick U/Ten
+BAL	FB	RICARD, PATRICK CF17
+BAL	PK	TUCKER, JUSTIN CF12
+BAL	DST	Ravens
+BUF	LWR	Coleman, Keon 24/2
+BUF	RWR	Samuel, Curtis U/Was
+BUF	SWR	Shakir, Khalil 22/5
+BUF	TE	Kincaid, Dalton 23/1
+BUF	QB	Allen, Josh 18/1
+BUF	RB	Cook, James 22/2
+BUF	FB	Gilliam, Reggie CF20
+BUF	PK	Bass, Tyler 20/6
+BUF	DST	Bills
+CAR	LWR	Johnson, Diontae T/Pit
+CAR	RWR	Legette, Xavier 24/1
+CAR	SWR	THIELEN, ADAM CC/Min
+CAR	TE	Tremble, Tommy 21/3
+CAR	QB	Young, Bryce 23/1
+CAR	RB	Hubbard, Chuba 21/4
+CAR	PK	Piñeiro, Eddy SF22
+CAR	DST	Panthers
+CHI	LWR	Moore, DJ T/Car
+CHI	RWR	Odunze, Rome 24/1
+CHI	SWR	ALLEN, KEENAN T/LAC
+CHI	TE	Kmet, Cole 20/2
+CHI	QB	Williams, Caleb 24/1
+CHI	RB	Swift, D'Andre U/Phi
+CHI	FB	Blasingame, Khari U/Ten
+CHI	PK	SANTOS, CAIRO SF20
+CHI	DST	Bears
+CIN	LWR	Chase, Ja'Marr 21/1
+CIN	RWR	Higgins, Tee FP
+CIN	SWR	Irwin, Trenton SF19
+CIN	TE	Gesicki, Mike U/NE
+CIN	QB	Burrow, Joe 20/1
+CIN	RB	Moss, Zack U/Ind
+CIN	PK	McPherson, Evan 21/5
+CIN	DST	Bengals
+CLE	LWR	Cooper, Amari T/Dal
+CLE	RWR	Moore, Elijah T/NYJ
+CLE	SWR	Jeudy, Jerry T/Den
+CLE	TE	Njoku, David 17/1
+CLE	QB	Watson, Deshaun T/Hou
+CLE	RB	Chubb, Nick 18/2
+CLE	PK	HOPKINS, DUSTIN T/LAC
+CLE	DST	Browns
+DAL	LWR	Tolbert, Jalen 22/3
+DAL	RWR	COOKS, BRANDIN T/Hou
+DAL	SWR	Lamb, CeeDee 20/1
+DAL	TE	Ferguson, Jake 22/4
+DAL	QB	PRESCOTT, DAK 16/4
+DAL	RB	Elliott, Ezekiel 16/1
+DAL	FB	Luepke, Hunter CF23
+DAL	PK	Aubrey, Brandon SF23
+DAL	DST	Cowboys
+DEN	LWR	Sutton, Courtland 18/2
+DEN	RWR	Reynolds, Josh U/Det
+DEN	SWR	Mims Jr., Marvin 23/2
+DEN	TE	Trautman, Adam T/NO
+DEN	QB	Nix, Bo 24/1
+DEN	RB	Williams, Javonte 21/2
+DEN	FB	BURTON, MICHAEL U/KC
+DEN	PK	Lutz, Wil T/NO
+DEN	DST	Broncos
+DET	LWR	Williams, Jameson 22/1
+DET	RWR	Raymond, Kalif U/Ten
+DET	SWR	St. Brown, Amon-Ra 21/4
+DET	TE	LaPorta, Sam 23/2
+DET	QB	Goff, Jared T/LAR
+DET	RB	Montgomery, David U/Chi
+DET	PK	Badgley, Michael SF23
+DET	DST	Lions
+GB	LWR	Watson, Christian 22/2
+GB	RWR	Doubs, Romeo 22/4
+GB	SWR	Reed, Jayden 23/2
+GB	TE	Musgrave, Luke 23/2
+GB	QB	Love, Jordan 20/1
+GB	RB	Jacobs, Josh U/LV
+GB	FB	Pearson, Henry CF23
+GB	PK	Carlson, Anders 23/6
+GB	DST	Packers
+HOU	LWR	Collins, Nico 21/3
+HOU	RWR	DIGGS, STEFON T/Buf
+HOU	SWR	Dell, Tank 23/3
+HOU	TE	Schultz, Dalton U/Dal
+HOU	QB	Stroud, C.J. 23/1
+HOU	RB	Mixon, Joe T/Cin
+HOU	FB	Hairston, Troy CF22
+HOU	PK	FAIRBAIRN, KA'IMI CF16
+HOU	DST	Texans
+IND	LWR	Pittman Jr., Michael 20/2
+IND	RWR	Mitchell, Adonai 24/2
+IND	SWR	Downs, Josh 23/3
+IND	TE	Woods, Jelani 22/3
+IND	QB	Richardson, Anthony 23/1
+IND	RB	Taylor, Jonathan 20/2
+IND	PK	GAY, MATT U/LAR
+IND	DST	Colts
+JAX	LWR	Davis, Gabe U/Buf
+JAX	RWR	Thomas Jr., Brian 24/1
+JAX	SWR	Kirk, Christian U/Arz
+JAX	TE	Engram, Evan U/NYG
+JAX	QB	Lawrence, Trevor 21/1
+JAX	RB	Etienne Jr., Travis 21/1
+JAX	PK	Little, Cam 24/6
+JAX	DST	Jaguars
+KC	LWR	Worthy, Xavier 24/1
+KC	RWR	Brown, Hollywood U/Arz
+KC	SWR	Rice, Rashee 23/2
+KC	TE	KELCE, TRAVIS 13/3
+KC	QB	Mahomes, Patrick 17/1
+KC	RB	Pacheco, Isiah 22/7
+KC	PK	Butker, Harrison P/Car
+KC	DST	Chiefs
+LAC	LWR	Palmer, Joshua 21/3
+LAC	RWR	Johnston, Quentin 23/1
+LAC	SWR	McConkey, Ladd 24/2
+LAC	TE	Dissly, Will CC/Sea
+LAC	QB	Herbert, Justin 20/1
+LAC	RB	Dobbins, J.K. U/Bal
+LAC	FB	Mason, Ben SF24
+LAC	PK	Dicker, Cameron SF22
+LAC	DST	Chargers
+LAR	LWR	Robinson, Demarcus U/Bal
+LAR	RWR	Nacua, Puka 23/5
+LAR	SWR	KUPP, COOPER 17/3
+LAR	TE	HIGBEE, TYLER 16/4
+LAR	QB	STAFFORD, MATTHEW T/Det
+LAR	RB	Williams, Kyren 22/5
+LAR	PK	Karty, Joshua 24/6
+LAR	DST	Rams
+LV	LWR	ADAMS, DAVANTE T/GB
+LV	RWR	Meyers, Jakobi U/NE
+LV	SWR	Tucker, Tre 23/3
+LV	TE	Bowers, Brock 24/1
+LV	QB	Minshew II, Gardner U/Ind
+LV	RB	White, Zamir 22/4
+LV	PK	Carlson, Daniel SF18
+LV	DST	Raiders
+MIA	LWR	Waddle, Jaylen 21/1
+MIA	RWR	BECKHAM JR., ODELL U/Bal
+MIA	SWR	HILL, TYREEK T/KC
+MIA	TE	Smith, Jonnu CC/Atl
+MIA	QB	Tagovailoa, Tua 20/1
+MIA	RB	MOSTERT, RAHEEM U/SF
+MIA	FB	Ingold, Alec U/LV
+MIA	PK	Sanders, Jason 18/7
+MIA	DST	Dolphins
+MIN	LWR	Jefferson, Justin 20/1
+MIN	RWR	Addison, Jordan 23/1
+MIN	SWR	Powell, Brandon U/LAR
+MIN	TE	Hockenson, T.J. T/Det
+MIN	QB	Darnold, Sam U/SF
+MIN	RB	Jones, Aaron CC/GB
+MIN	FB	HAM, C.J. CF16
+MIN	PK	Reichard, Will 24/6
+MIN	DST	Vikings
+NE	LWR	Polk, Ja'Lynn 24/2
+NE	RWR	Bourne, Kendrick U/SF
+NE	SWR	Douglas, DeMario 23/6
+NE	TE	Henry, Hunter U/LAC
+NE	QB	BRISSETT, JACOBY 16/3
+NE	RB	Stevenson, Rhamondre 21/4
+NE	PK	Ryland, Chad 23/4
+NE	DST	Patriots
+NO	LWR	Perry, A.T. 23/6
+NO	RWR	Olave, Chris 22/1
+NO	SWR	Shaheed, Rashid CF22
+NO	TE	Johnson, Juwan CF20
+NO	QB	CARR, DEREK CC/LV
+NO	RB	Kamara, Alvin 17/3
+NO	FB	Prentice, Adam W/Den
+NO	PK	Grupe, Blake CF23
+NO	DST	Saints
+NYG	LWR	Nabers, Malik 24/1
+NYG	RWR	Slayton, Darius 19/5
+NYG	SWR	Robinson, Wan'Dale 22/2
+NYG	TE	WALLER, DARREN T/LV
+NYG	QB	Jones, Daniel 19/1
+NYG	RB	Singletary, Devin U/Hou
+NYG	PK	GANO, GRAHAM SF20
+NYG	DST	Giants
+NYJ	LWR	Williams, Mike CC/LAC
+NYJ	RWR	Wilson, Garrett 22/1
+NYJ	SWR	Corley, Malachi 24/3
+NYJ	TE	Conklin, Tyler U/Min
+NYJ	QB	RODGERS, AARON T/GB
+NYJ	RB	Hall, Breece 22/2
+NYJ	FB	Bawden, Nick SF21
+NYJ	PK	ZUERLEIN, GREG CC/Dal
+NYJ	DST	Jets
+PHI	LWR	Brown, A.J. T/Ten
+PHI	RWR	Smith, DeVonta 21/1
+PHI	SWR	Campbell, Parris U/NYG
+PHI	TE	Goedert, Dallas 18/2
+PHI	QB	Hurts, Jalen 20/2
+PHI	RB	Barkley, Saquon U/NYG
+PHI	PK	Elliott, Jake P/Cin
+PHI	DST	Eagles
+PIT	LWR	Pickens, George 22/2
+PIT	RWR	Jefferson, Van U/Atl
+PIT	SWR	Wilson, Roman 24/3
+PIT	TE	Freiermuth, Pat 21/2
+PIT	QB	WILSON, RUSSELL CC/Den
+PIT	RB	Harris, Najee 21/1
+PIT	FB	Colletto, Jack SF23
+PIT	PK	BOSWELL, CHRIS SF15
+PIT	DST	Steelers
+SEA	LWR	Metcalf, DK 19/2
+SEA	RWR	LOCKETT, TYLER 15/3
+SEA	SWR	Smith-Njigba, Jaxon 23/1
+SEA	TE	Fant, Noah T/Den
+SEA	QB	SMITH, GENO U/LAC
+SEA	RB	Walker III, Kenneth 22/2
+SEA	PK	MYERS, JASON U/NYJ
+SEA	DST	Seahawks
+SF	LWR	Aiyuk, Brandon 20/1
+SF	RWR	Samuel Sr., Deebo 19/2
+SF	SWR	Pearsall, Ricky 24/1
+SF	TE	KITTLE, GEORGE 17/5
+SF	QB	Purdy, Brock 22/7
+SF	RB	McCaffrey, Christian T/Car
+SF	FB	JUSZCZYK, KYLE U/Bal
+SF	PK	Moody, Jake 23/3
+SF	DST	49ers
+TB	LWR	EVANS, MIKE 14/1
+TB	RWR	Palmer, Trey 23/6
+TB	SWR	Godwin, Chris 17/3
+TB	TE	Otton, Cade 22/4
+TB	QB	Mayfield, Baker U/LAR
+TB	RB	White, Rachaad 22/3
+TB	PK	McLaughlin, Chase U/Ind
+TB	DST	Buccaneers
+TEN	LWR	HOPKINS, DEANDRE CC/Arz
+TEN	RWR	Ridley, Calvin U/Jax
+TEN	SWR	Boyd, Tyler U/Cin
+TEN	TE	Okonkwo, Chigoziem 22/4
+TEN	QB	Levis, Will 23/2
+TEN	RB	Pollard, Tony U/Dal
+TEN	PK	FOLK, NICK T/NE
+TEN	DST	Titans
+WAS	LWR	McLaurin, Terry 19/3
+WAS	RWR	Dotson, Jahan 22/1
+WAS	SWR	McCaffrey, Luke 24/3
+WAS	TE	ERTZ, ZACH SF24
+WAS	QB	Daniels, Jayden 24/1
+WAS	RB	Ekeler, Austin U/LAC
+WAS	PK	MCMANUS, BRANDON U/Jax
+WAS	DST	Commanders
