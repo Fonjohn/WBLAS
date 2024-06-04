@@ -40,7 +40,7 @@ cursor.execute('DROP TABLE IF EXISTS players')
 
 # Create the table if it doesn't exist
 cursor.execute('''
-CREATE TABLE IF NOT EXISTS players (
+CREATE TABLE players (
     Team TEXT,
     Position TEXT,
     Name TEXT
