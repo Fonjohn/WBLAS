@@ -4,8 +4,8 @@ import os
 
 # Directory and file paths
 script_dir = os.path.dirname(os.path.abspath(__file__))
-tsv_path = os.path.abspath(os.path.join(script_dir, '../data/old_nfl_players.txt'))
-db_path = os.path.abspath(os.path.join(script_dir, '../data/player_data.db'))
+tsv_path = os.path.abspath(os.path.join(script_dir, '../../data/old_nfl_players.txt'))
+db_path = os.path.abspath(os.path.join(script_dir, '../../data/auctionDB.db'))
 
 # Debugging: Print paths to check correctness
 print(f"Script directory: {script_dir}")
@@ -41,6 +41,7 @@ cursor.execute('DROP TABLE IF EXISTS players')
 # Create the table if it doesn't exist
 cursor.execute('''
 CREATE TABLE players (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     Team TEXT,
     Position TEXT,
     Name TEXT
