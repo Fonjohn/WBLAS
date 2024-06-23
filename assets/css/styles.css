@@ -1,150 +1,47 @@
 @charset "UTF-8";
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Rounded rectangle container for the form */
-.board-container {
-    display: grid;
-    grid-template-columns: repeat(18, 1fr);
-    grid-template-rows: repeat(12, 1fr);
-    background-color: #f1f1f1;
-    border: 2px solid #ccc;
-    border-radius: 10px;
+/* CSS for starter card layout */
+.starter-card {
+    border: 1px solid #2ecc71;
     padding: 10px;
-    max-width: 1000px;
-    margin: 0 auto;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-/* select style */
-select {
-    background-color: #272727;
-    color: #b3b3b3;
-    padding: 10px;
-    border: 1px solid #000000;
-    border-radius: 5px;
-    font-size: 16px;
-    margin-bottom: 10px;
-}
-
-/* option styles */
-select option[value="red"] {
-    background-color: #760000;
-    color: red;
-}
-select option[value="orange"] {
-    background-color: #ac3f00;
-    color: #ff8000;
-}
-select option[value="yellow"] {
-    background-color: #bd9100;
-    color: #fbff00;
-}
-select option[value="green"] {
-    background-color: #006e04;
-    color: #09ff00;
-}
-select option[value="blue"] {
-    background-color: #0022aa;
-    color: #1170ff;
-}
-select option[value="indigo"] {
-    background-color: #330099;
-    color: #6532ff;
-}
-select option[value="violet"] {
-    background-color: #5a0092;
-    color: #d900ff;
-}
-
-/* table styles */
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-table th, table td {
-    border: 1px solid #ccc;
-    padding: 10px;
+    margin: 5px;
     text-align: center;
+    background-color: #ecf9f0;
+}
+.starter-card strong {
+    display: block;
+    margin-bottom: 5px;
 }
 
-table td[value="red"] {
-    background-color: #760000;
-    color: #ff0000;
-}
-table td[value="orange"] {
-    background-color: #ac3f00;
-    color: #ff8000;
-}
-table td[value="yellow"] {
-    background-color: #bd9100;
-    color: #fbff00;
-}
-table td[value="green"] {
-    background-color: #006e04;
-    color: #09ff00;
-}
-table td[value="blue"] {
-    background-color: #0022aa;
-    color: #1170ff;
-}
-table td[value="indigo"] {
-    background-color: #330099;
-    color: #6532ff;
-}
-table td[value="violet"] {
-    background-color: #5a0092;
-    color: #d900ff;
-}
-
-input[type="text"] {
-    width: 80%;
-    padding: 8px;
-    margin-bottom: 10px;
-    
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-input[type="submit"] {
-    padding: 10px 20px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-}
-
-input[type="checkbox"] {
+/* CSS for bench card layout */
+.bench-card {
+    border: 1px solid #3498db;
     padding: 10px;
-    margin: 10px;
+    margin: 5px;
+    text-align: center;
+    background-color: #eef4fc;
+}
+.bench-card strong {
+    display: block;
+    margin-bottom: 5px;
 }
 
-input[type="submit"]:hover {
-    background-color: #45a049;
+/* CSS for empty slots */
+.no-player {
+    border: 1px dashed #ccc;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    color: #999;
 }
 
-a:link, a:visited {
-    text-decoration: none;
-    padding: 10px 20px;
-    background-color: #4c7faf;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
+/* CSS for bench grid layout */
+.bench-grid {
+    border-collapse: collapse;
+    width: 100%;
 }
-
-a:hover {
-    padding: 10px 20px;
-    background-color: #3b6994;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
+.bench-grid td {
+    padding: 5px;
+    border: 1px solid #ddd;
+    text-align: center;
 }

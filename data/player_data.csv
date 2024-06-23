@@ -1,0 +1,271 @@
+_id|Team|Position|Name
+1|ARZ|WR|Harrison Jr.,
+2|ARZ|WR|Wilson, Michael
+3|ARZ|WR|Dortch, Greg
+4|ARZ|TE|Mcbride, Trey
+5|ARZ|QB|Murray, Kyler
+6|ARZ|RB|Conner, James
+7|ARZ|PK|Prater, Matt
+8|ARZ|DST|Cardinals
+9|ATL|WR|London, Drake
+10|ATL|WR|Mooney, Darnell
+11|ATL|WR|Moore, Rondale
+12|ATL|TE|Pitts, Kyle
+13|ATL|QB|Cousins, Kirk
+14|ATL|RB|Robinson, Bijan
+15|ATL|PK|Koo, Younghoe
+16|ATL|DST|Falcons
+17|BAL|WR|Flowers, Zay
+18|BAL|WR|Bateman, Rashod
+19|BAL|WR|Agholor, Nelson
+20|BAL|TE|Andrews, Mark
+21|BAL|QB|Jackson, Lamar
+22|BAL|RB|Henry, Derrick
+23|BAL|FB|Ricard, Patrick
+24|BAL|PK|Tucker, Justin
+25|BAL|DST|Ravens
+26|BUF|WR|Coleman, Keon
+27|BUF|WR|Samuel, Curtis
+28|BUF|WR|Shakir, Khalil
+29|BUF|TE|Kincaid, Dalton
+30|BUF|QB|Allen, Josh
+31|BUF|RB|Cook, James
+32|BUF|FB|Gilliam, Reggie
+33|BUF|PK|Bass, Tyler
+34|BUF|DST|Bills
+35|CAR|WR|Johnson, Diontae
+36|CAR|WR|Legette, Xavier
+37|CAR|WR|Thielen, Adam
+38|CAR|TE|Tremble, Tommy
+39|CAR|QB|Young, Bryce
+40|CAR|RB|Hubbard, Chuba
+41|CAR|PK|Piã±eiro, Eddy
+42|CAR|DST|Panthers
+43|CHI|WR|Moore, Dj
+44|CHI|WR|Odunze, Rome
+45|CHI|WR|Allen, Keenan
+46|CHI|TE|Kmet, Cole
+47|CHI|QB|Williams, Caleb
+48|CHI|RB|Swift, D'andre
+49|CHI|FB|Blasingame, Khari
+50|CHI|PK|Santos, Cairo
+51|CHI|DST|Bears
+52|CIN|WR|Chase, Ja'marr
+53|CIN|WR|Higgins, Tee
+54|CIN|WR|Irwin, Trenton
+55|CIN|TE|Gesicki, Mike
+56|CIN|QB|Burrow, Joe
+57|CIN|RB|Moss, Zack
+58|CIN|PK|Mcpherson, Evan
+59|CIN|DST|Bengals
+60|CLE|WR|Cooper, Amari
+61|CLE|WR|Moore, Elijah
+62|CLE|WR|Jeudy, Jerry
+63|CLE|TE|Njoku, David
+64|CLE|QB|Watson, Deshaun
+65|CLE|RB|Chubb, Nick
+66|CLE|PK|Hopkins, Dustin
+67|CLE|DST|Browns
+68|DAL|WR|Tolbert, Jalen
+69|DAL|WR|Cooks, Brandin
+70|DAL|WR|Lamb, Ceedee
+71|DAL|TE|Ferguson, Jake
+72|DAL|QB|Prescott, Dak
+73|DAL|RB|Elliott, Ezekiel
+74|DAL|FB|Luepke, Hunter
+75|DAL|PK|Aubrey, Brandon
+76|DAL|DST|Cowboys
+77|DEN|WR|Sutton, Courtland
+78|DEN|WR|Reynolds, Josh
+79|DEN|WR|Mims Jr.,
+80|DEN|TE|Trautman, Adam
+81|DEN|QB|Nix, Bo
+82|DEN|RB|Williams, Javonte
+83|DEN|FB|Burton, Michael
+84|DEN|PK|Lutz, Wil
+85|DEN|DST|Broncos
+86|DET|WR|Williams, Jameson
+87|DET|WR|Raymond, Kalif
+88|DET|WR|St. Brown,
+89|DET|TE|Laporta, Sam
+90|DET|QB|Goff, Jared
+91|DET|RB|Montgomery, David
+92|DET|PK|Badgley, Michael
+93|DET|DST|Lions
+94|GB|WR|Watson, Christian
+95|GB|WR|Doubs, Romeo
+96|GB|WR|Reed, Jayden
+97|GB|TE|Musgrave, Luke
+98|GB|QB|Love, Jordan
+99|GB|RB|Jacobs, Josh
+100|GB|FB|Pearson, Henry
+101|GB|PK|Carlson, Anders
+102|GB|DST|Packers
+103|HOU|WR|Collins, Nico
+104|HOU|WR|Diggs, Stefon
+105|HOU|WR|Dell, Tank
+106|HOU|TE|Schultz, Dalton
+107|HOU|QB|Stroud, C.j.
+108|HOU|RB|Mixon, Joe
+109|HOU|FB|Hairston, Troy
+110|HOU|PK|Fairbairn, Ka'imi
+111|HOU|DST|Texans
+112|IND|WR|Pittman Jr.,
+113|IND|WR|Mitchell, Adonai
+114|IND|WR|Downs, Josh
+115|IND|TE|Woods, Jelani
+116|IND|QB|Richardson, Anthony
+117|IND|RB|Taylor, Jonathan
+118|IND|PK|Gay, Matt
+119|IND|DST|Colts
+120|JAX|WR|Davis, Gabe
+121|JAX|WR|Thomas Jr.,
+122|JAX|WR|Kirk, Christian
+123|JAX|TE|Engram, Evan
+124|JAX|QB|Lawrence, Trevor
+125|JAX|RB|Etienne Jr.,
+126|JAX|PK|Little, Cam
+127|JAX|DST|Jaguars
+128|KC|WR|Worthy, Xavier
+129|KC|WR|Brown, Hollywood
+130|KC|WR|Rice, Rashee
+131|KC|TE|Kelce, Travis
+132|KC|QB|Mahomes, Patrick
+133|KC|RB|Pacheco, Isiah
+134|KC|PK|Butker, Harrison
+135|KC|DST|Chiefs
+136|LAC|WR|Palmer, Joshua
+137|LAC|WR|Johnston, Quentin
+138|LAC|WR|Mcconkey, Ladd
+139|LAC|TE|Dissly, Will
+140|LAC|QB|Herbert, Justin
+141|LAC|RB|Dobbins, J.k.
+142|LAC|FB|Mason, Ben
+143|LAC|PK|Dicker, Cameron
+144|LAC|DST|Chargers
+145|LAR|WR|Robinson, Demarcus
+146|LAR|WR|Nacua, Puka
+147|LAR|WR|Kupp, Cooper
+148|LAR|TE|Higbee, Tyler
+149|LAR|QB|Stafford, Matthew
+150|LAR|RB|Williams, Kyren
+151|LAR|PK|Karty, Joshua
+152|LAR|DST|Rams
+153|LV|WR|Adams, Davante
+154|LV|WR|Meyers, Jakobi
+155|LV|WR|Tucker, Tre
+156|LV|TE|Bowers, Brock
+157|LV|QB|Minshew Ii,
+158|LV|RB|White, Zamir
+159|LV|PK|Carlson, Daniel
+160|LV|DST|Raiders
+161|MIA|WR|Waddle, Jaylen
+162|MIA|WR|Beckham Jr.,
+163|MIA|WR|Hill, Tyreek
+164|MIA|TE|Smith, Jonnu
+165|MIA|QB|Tagovailoa, Tua
+166|MIA|RB|Mostert, Raheem
+167|MIA|FB|Ingold, Alec
+168|MIA|PK|Sanders, Jason
+169|MIA|DST|Dolphins
+170|MIN|WR|Jefferson, Justin
+171|MIN|WR|Addison, Jordan
+172|MIN|WR|Powell, Brandon
+173|MIN|TE|Hockenson, T.j.
+174|MIN|QB|Darnold, Sam
+175|MIN|RB|Jones, Aaron
+176|MIN|FB|Ham, C.j.
+177|MIN|PK|Reichard, Will
+178|MIN|DST|Vikings
+179|NE|WR|Polk, Ja'lynn
+180|NE|WR|Bourne, Kendrick
+181|NE|WR|Douglas, Demario
+182|NE|TE|Henry, Hunter
+183|NE|QB|Brissett, Jacoby
+184|NE|RB|Stevenson, Rhamondre
+185|NE|PK|Ryland, Chad
+186|NE|DST|Patriots
+187|NO|WR|Perry, A.t.
+188|NO|WR|Olave, Chris
+189|NO|WR|Shaheed, Rashid
+190|NO|TE|Johnson, Juwan
+191|NO|QB|Carr, Derek
+192|NO|RB|Kamara, Alvin
+193|NO|FB|Prentice, Adam
+194|NO|PK|Grupe, Blake
+195|NO|DST|Saints
+196|NYG|WR|Nabers, Malik
+197|NYG|WR|Slayton, Darius
+198|NYG|WR|Robinson, Wan'dale
+199|NYG|TE|Waller, Darren
+200|NYG|QB|Jones, Daniel
+201|NYG|RB|Singletary, Devin
+202|NYG|PK|Gano, Graham
+203|NYG|DST|Giants
+204|NYJ|WR|Williams, Mike
+205|NYJ|WR|Wilson, Garrett
+206|NYJ|WR|Corley, Malachi
+207|NYJ|TE|Conklin, Tyler
+208|NYJ|QB|Rodgers, Aaron
+209|NYJ|RB|Hall, Breece
+210|NYJ|FB|Bawden, Nick
+211|NYJ|PK|Zuerlein, Greg
+212|NYJ|DST|Jets
+213|PHI|WR|Brown, A.j.
+214|PHI|WR|Smith, Devonta
+215|PHI|WR|Campbell, Parris
+216|PHI|TE|Goedert, Dallas
+217|PHI|QB|Hurts, Jalen
+218|PHI|RB|Barkley, Saquon
+219|PHI|PK|Elliott, Jake
+220|PHI|DST|Eagles
+221|PIT|WR|Pickens, George
+222|PIT|WR|Jefferson, Van
+223|PIT|WR|Wilson, Roman
+224|PIT|TE|Freiermuth, Pat
+225|PIT|QB|Wilson, Russell
+226|PIT|RB|Harris, Najee
+227|PIT|FB|Colletto, Jack
+228|PIT|PK|Boswell, Chris
+229|PIT|DST|Steelers
+230|SEA|WR|Metcalf, Dk
+231|SEA|WR|Lockett, Tyler
+232|SEA|WR|Smith-njigba, Jaxon
+233|SEA|TE|Fant, Noah
+234|SEA|QB|Smith, Geno
+235|SEA|RB|Walker Iii,
+236|SEA|PK|Myers, Jason
+237|SEA|DST|Seahawks
+238|SF|WR|Aiyuk, Brandon
+239|SF|WR|Samuel Sr.,
+240|SF|WR|Pearsall, Ricky
+241|SF|TE|Kittle, George
+242|SF|QB|Purdy, Brock
+243|SF|RB|Mccaffrey, Christian
+244|SF|FB|Juszczyk, Kyle
+245|SF|PK|Moody, Jake
+246|SF|DST|49ers
+247|TB|WR|Evans, Mike
+248|TB|WR|Palmer, Trey
+249|TB|WR|Godwin, Chris
+250|TB|TE|Otton, Cade
+251|TB|QB|Mayfield, Baker
+252|TB|RB|White, Rachaad
+253|TB|PK|Mclaughlin, Chase
+254|TB|DST|Buccaneers
+255|TEN|WR|Hopkins, Deandre
+256|TEN|WR|Ridley, Calvin
+257|TEN|WR|Boyd, Tyler
+258|TEN|TE|Okonkwo, Chigoziem
+259|TEN|QB|Levis, Will
+260|TEN|RB|Pollard, Tony
+261|TEN|PK|Folk, Nick
+262|TEN|DST|Titans
+263|WAS|WR|Mclaurin, Terry
+264|WAS|WR|Dotson, Jahan
+265|WAS|WR|Mccaffrey, Luke
+266|WAS|TE|Ertz, Zach
+267|WAS|QB|Daniels, Jayden
+268|WAS|RB|Ekeler, Austin
+269|WAS|PK|Mcmanus, Brandon
+270|WAS|DST|Commanders
